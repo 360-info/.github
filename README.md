@@ -8,7 +8,7 @@ We publish **research-driven, solutions-focused, and ready-to-use content** and 
 
 Because our content is released under Creative Commons, you can use + remix it as much, or as little, as you like without charge. All we require is that you acknowledge us and the sources of our data. You can use the text in our reports by directly downloading them from [our website](https://360info.org), but we also allow you to alter reproduce and remix the graphics and multimedia we create.
 
-To get started, look for repositories that begin with `report-` (such as [report-nuclear-weapons](https://github.com/360-info/report-nuclear-weapons)). We create these for our Special Reports, and they contain everything you need.
+To get started, **[browse our repositories](https://github.com/orgs/360-info/repositories)** and look for ones that begin with `report-` (such as [report-nuclear-weapons](https://github.com/360-info/report-nuclear-weapons)). We create these for our Special Reports, and they contain everything you need.
 
 ### 📊 Ready-to-use graphics
 
