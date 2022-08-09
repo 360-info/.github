@@ -20,13 +20,13 @@ If you don't want to recreate our full analysis from scratch, we generally publi
 
 In cases where we produce videos or animations using Adobe Creative Cloud or other software, we keep project files on the [360 Google Drive](https://drive.google.com/drive/folders/1zNaEtm8jkKWF-IltlV12_36tk7ST_ihG?usp=sharing).
 
+### 🗂 Use our source data
+
+Smaller data sources, such as CSV files, [Parquet files](https://arrow.apache.org/faq#what-is-the-difference-between-apache-arrow-and-apache-parquet) or shapefiles, are often stored in the `data` folder. In some cases, we may store larger, manually processed files on the [360 Google Drive](https://drive.google.com/drive/folders/1zNaEtm8jkKWF-IltlV12_36tk7ST_ihG?usp=sharing). In other cases, our analysis scripts may download source data directly from another source, such as Our World in Data.
+
 ### 💻 Reproduce our analyses
 
 If you'd like to re-run our analyses, we typically use [R](https://r-project.org) alongside the [Quarto](https://quarto.org) publishing system. Exact requirements are described in each repository. Look for files ending in `.qmd`, `.r` or `.rmd`.
-
-### 🗂 Use our source data
-
-Smaller data sources, such as CSV files, are often stored in the `data` folder. In some cases, we may store larger, manually processed files on the [360 Google Drive](https://drive.google.com/drive/folders/1zNaEtm8jkKWF-IltlV12_36tk7ST_ihG?usp=sharing). In other cases, our analysis scripts may download source data directly from another source, such as Our World in Data.
 
 ## 🔧 Tools
 
