@@ -1,4 +1,4 @@
-360info is an open access global information agency that tackles the world’s biggest challenges and offers practical solutions.
+## 360info is an open access global information agency that tackles the world’s biggest challenges and offers practical solutions.
 
 We publish **research-driven, solutions-focused, and ready-to-use content** and deliver it to republishers **without charge, under Creative Commons.** By partnering with hundreds of publishers looking to add in-depth context and more diverse voices to their news journalism, we better inform readers worldwide.
 
