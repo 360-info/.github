@@ -30,7 +30,10 @@ If you'd like to re-run our analyses, we typically use [R](https://r-project.org
 
 ## 🔧 Tools
 
-We also maintain a few tools used in our production process. Most prominent among these is [`themes360info`](https://github.com/360-info/themes360info), a package for aligning graphics in [`ggplot2`](https://ggplot2.tidyverse.org) with our house style.
+We also maintain a few tools used in our production process. Most prominent among these are:
+
+- [Sverto](https://github.com/360-info/sverto), a [Quarto](https://quarto.org) extension that allows you to seamlessly use [Svelte](https://svelte.dev) components in Quarto documents with reactive OJS; and
+- [`{themes360info}`](https://github.com/360-info/themes360info), a package for aligning graphics in [`ggplot2`](https://ggplot2.tidyverse.org) with our house style.
 
 ## ❓ Issues
 
