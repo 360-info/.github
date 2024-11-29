@@ -1,5 +1,9 @@
 ## 360info is an open access global information agency that tackles the world’s biggest challenges and offers practical solutions.
 
+> [!important]
+>
+> Thie 360-info GitHub organization is currently archived for an indefinite period. Users should expect repositories won't be maintained and that live datasets will no longer update unless this status changes. You are still welcome to reuse existing published code, data and graphics under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/deed.en) licence, unless another licence is listed on the repository.
+
 We publish **research-driven, solutions-focused, and ready-to-use content** and deliver it to republishers **without charge, under Creative Commons.** By partnering with hundreds of publishers looking to add in-depth context and more diverse voices to their news journalism, we better inform readers worldwide.
 
 ![image](https://user-images.githubusercontent.com/6520659/158499127-38260d62-cb39-4a70-80e7-6e2f1862d88d.png)
